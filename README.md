@@ -6,4 +6,6 @@ It crawles https://store.line.me/stickershop/showcase/top/zh-Hant and retrieves 
 
 # Usage
 
+```
 cd ./src && go run main.go
+```
